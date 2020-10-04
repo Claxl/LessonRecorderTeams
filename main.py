@@ -1,8 +1,6 @@
 from datetime import datetime
 from subprocess import call
 import time
-import winreg as reg  
-import os   
 # datetime object containing current date and time
 def record():
     now = datetime.now()
