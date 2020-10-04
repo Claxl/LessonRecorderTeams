@@ -2,6 +2,18 @@
 
 This is a simple script that start record when you have lesson with teams
 
+## What's needed
+- OBS studio
+- Python 3.7
+- Microsoft Teams
+## How to proceed
+- Create your scene in OBS studio
+- For record teams window disable in teams option the GPU acceleration 
+- Edit the src code provided 
+- For startup start with windows, just put a shortcut in 
+```bash
+C:\Users\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+```
 ## Usage
 
 ```python
